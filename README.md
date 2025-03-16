@@ -9,8 +9,7 @@
 
 ## ☁️ Cloud & Technical Skills  
 - **Cloud Services:** AWS (EC2, S3, IAM, RDS, CloudFront)  
-- **Operating Systems:** Linux (CLI, Basic Bash Scripting)  
-- **Networking:** CIDR, Subnetting, Security Groups  
+- **CRM & Business Tools:** Salesforce, SAP, Pipedrive, Formitize  
 
 ## 💡 Transferable Skills from Customer Service to Cloud  
 - 🛠️ **Technical Troubleshooting** → Assisted customers with resolving software and technical issues.  
